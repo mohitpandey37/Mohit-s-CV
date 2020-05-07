@@ -17,6 +17,21 @@
   padding-top: 12px;
 }
 
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width:10%;
+}
+h1{
+  color: #66bfbf;
+  font-family: serif;
+  font-size: 40px;
+}
+h2 {
+  color: #66bfbf;
+}
 
 P {
     font-size: 20px;
