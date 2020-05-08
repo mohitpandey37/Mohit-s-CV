@@ -15,6 +15,19 @@
 }
 .alpha03{
   padding-top: 12px;
+} 
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+} 
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  background: #bc2a8d;
+  color: white;
 }
 
 hr{
