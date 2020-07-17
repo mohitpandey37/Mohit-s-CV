@@ -130,3 +130,23 @@ h1{
   font-family: 'Audiowide', cursive;
   font-size: 6.25rem;
 }
+
+/* Testimonials */
+#Testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #035aa6;
+  color: white;
+}
+h2{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.testimonials-image{
+  width: 13%;
+  border-radius: 100%;
+}
+.carousel-item{
+  padding-bottom:5rem;
+
+}
