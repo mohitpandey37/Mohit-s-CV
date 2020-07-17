@@ -139,14 +139,41 @@ h1{
   color: white;
 }
 h2{
-  font-size: 3rem;
   line-height: 1.5;
 }
 .testimonials-image{
+  margin-right: 10px;
   width: 13%;
   border-radius: 100%;
 }
 .carousel-item{
   padding-bottom:5rem;
+}
 
+/* Features section */
+#features {
+background-color: white;
+padding: 7% 15%;
+position: relative;
+z-index: 1;
+text-align: center;
+}
+
+.feature-title {
+font-size:2rem;
+}
+
+.feature-box {
+padding: 5%;
+text-align: center;
+}
+
+.fa-4x {
+text-align: center;
+color: #035aa6;
+padding: 20px;
+}
+
+.fa-4x:hover {
+  color: #142850;
 }
