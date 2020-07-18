@@ -184,7 +184,6 @@ width: 70%;
           /* Media */
 @media (max-width: 900px) {
   .heading{
-    background-image: url("PicsArt(tablet).jpg");
     display: block;
   width: 880px;
   height:600px;
@@ -205,6 +204,7 @@ width: 70%;
 }
 @media (max-width: 420px ) {
   .heading{
+       background-image: url("PicsArt(Phone) - Copy.jpg");
     display: block;
   width: 400px;
   height:250px;
