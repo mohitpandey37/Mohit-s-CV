@@ -205,7 +205,6 @@ width: 70%;
 }
 @media (max-width: 420px ) {
   .heading{
-    background-image: url("PicsArt(Phone) - Copy.jpg");
     display: block;
   width: 400px;
   height:250px;
