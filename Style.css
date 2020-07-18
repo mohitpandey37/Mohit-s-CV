@@ -197,7 +197,7 @@ width: 70%;
   }
   .elementor-icon{
   position: relative;
-  left: 20rem;
+  left: 30rem;
   padding: 0 15px;
   color: black;
   font-size:20px;
@@ -218,11 +218,24 @@ width: 70%;
   }
   .elementor-icon{
   position: relative;
-  left: 10rem;
+  left: 23rem;
   padding: 0 15px;
   color: black;
   font-size:20px;
   margin-top: 0;
   }
-
+}
+@media (max-width: 380px) {
+  .heading{
+    display: block;
+      width: 100%;
+  }
+  .elementor-icon{
+position: relative;
+right: 10rem;
+  padding: 0 15px;
+  color: black;
+  font-size:20px;
+  margin-top: 0;
+  }
 }
