@@ -54,6 +54,7 @@ border-radius: 1.25rem;
 .dropdown {
   position: relative;
   display: inline-block;
+
 }
 .dropdown:hover .dropdown-menu {
   display: block;
@@ -63,6 +64,7 @@ border-radius: 1.25rem;
   border-bottom: 1px dotted white;
   border-radius: 3px;
   text-align: left;
+  border: 1px solid;
 }
 .wrapper {
 position: relative;
@@ -99,27 +101,28 @@ background-color: white;
   bottom: 30px;
 }
 .sub-menu-2, .sub-menu-3{
+    position: fixed;
   display: none;
+
 }
 .sub-menu-2 ul li{
   list-style-type: none;
-  border-radius: 10px;
+
 }
 .sub-menu-3 ul li{
   list-style-type: none;
-  border-radius: 10px;
 }
 
 .hover-me:hover .sub-menu-2{
   position: absolute;
-  left: 118px;
+  left: 118.8px;
   top: 20px;
   display: block;
   width: 100%;
 }
 .hover-mee:hover .sub-menu-3{
   position: absolute;
-  left: 118px;
+  left: 118.8px;
   top: 230px;
   display: block;
   width: 100%;
