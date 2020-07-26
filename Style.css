@@ -65,6 +65,7 @@ border-radius: 1.25rem;
   border-radius: 3px;
   text-align: left;
   border: 1px solid;
+  background-color: #d7d1c9;
 }
 .wrapper {
 position: relative;
@@ -130,7 +131,7 @@ background-color: white;
 
 .submenuitem{
   width: 200px;
-  background-color: #dddddd;
+  background-color: #d7d1c9;
 }
  /* HEARDDER */
 .heading{
