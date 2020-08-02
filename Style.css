@@ -330,9 +330,35 @@ right: 10rem;
   .navbar{
    background-color: #f7f7f7;
   color: black;
-  width:100%;
+  width:110%;
   position: absolute;
      left: 0;
      right: 0;
+  }
+  #Social{
+    position: relative;
+    top: 300px;
+    width: 110%;
+  background-color: #f7f7f7;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  }
+  .elementor-icon{
+    width: 100%;
+  position: relative;
+  left: 100px;
+  padding:  0 15px;
+  color: black;
+  font-size:20px;
+  margin-top: 0;
+  }
+  .social-icons:hover{
+  color: #035aa6;
+  }
+  .bottom-container{
+    width: 110%;
+  }
+  .contact-para{
+    font-size: 12px;
   }
 }
